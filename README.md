@@ -1,5 +1,3 @@
 # Untitled-Project-1
 
-Branch
-
-Going to sleep without commiting
+Just deleted old local repo cause it was broken. Testing new repo.
